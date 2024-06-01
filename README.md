@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LevKhoryak
-- 👍 I like to code
-- 👀 I’m mostly interested in web development, but I do all kinds of stuff
-- 🌱 I’m currently learning PHP, CSS, JS, Go and React
-- 💞️ I’m looking to collaborate on projects written with Go
+- 👍 I like money
+- 👀 I’m mostly interested in finance and quantitative analysis
+- 🌱 I’m currently learning Python and R for finance
 - 📫 Reach out to me at lev.horyak@gmail.com
 
 <!---
