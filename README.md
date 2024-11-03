@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LevKhoryak
+- 👋 Hi, I’m @LevKhoriak
 - 👍 I like money
 - 👀 I’m mostly interested in finance and quantitative analysis
 - 🌱 I’m currently learning Python and R for finance
