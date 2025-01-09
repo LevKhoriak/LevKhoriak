@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LevKhoriak
 - 👍 I like money
 - 👀 I’m mostly interested in finance and quantitative analysis
-- 🌱 I’m currently learning Python and R for finance
+- 🌱 I’m currently learning Python and ML for finance
 - 📫 Reach out to me at lev.horyak@gmail.com
 
 <!---
